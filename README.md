@@ -1,4 +1,4 @@
-#Python Beginner's Notebook
+#Python Notebook for Beginners
 
 This notebook provides code samples with explanation for those who are getting started with Python. Since Python3 has been around for a while (and hence stable and high package support), we decide to use Python3 for this notebook.
 
